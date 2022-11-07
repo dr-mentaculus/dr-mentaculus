@@ -11,9 +11,9 @@ I am a former Associate Professor of Philosophy, pivoting to a career in Data Sc
 
 I really enjoy coding--which I've been doing now for about a year. And I find a lot of the concepts in statistics and probability fascinating. So if you have recommendations on learning more of that, let me know.
 
-You can visit my LinkedIn page here: https://www.linkedin.com/in/derek-baker-b02253256/
+You can visit [my LinkedIn page](https://www.linkedin.com/in/derek-baker-b02253256/).
 
-If you're interested in my previous academic life, including my research, my old website is still up: https://derek-baker.com
+If you're interested in my previous academic life, including my research, [my old website is still up](https://derek-baker.com).
 
 <!---
 dr-mentaculus/dr-mentaculus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
