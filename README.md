@@ -1,9 +1,8 @@
 
 - 👋 Hi, I’m Derek Baker
-- 👀 I’m interested in Data Science
 - 🌱 I’m currently seeking work in Data Science
 - 🎓 PhD in Philosophy, Princeton University
-- 📫 How to reach me derek.clayton.baker@gmail.com
+- 📫 derek.clayton.baker@gmail.com
  
 <b>More about me</b>
 
