@@ -10,8 +10,6 @@ I am a former Associate Professor of Philosophy, pivoting to a career in Data Sc
 
 You can check out my public repositories for examples of what I've taught myself to do.
 
-You can visit [my LinkedIn page](https://www.linkedin.com/in/derek-baker-b02253256/).
-
 If you're interested in my previous academic life, including my research, [my old website is still up](https://derek-baker.com).
 
 <!---
